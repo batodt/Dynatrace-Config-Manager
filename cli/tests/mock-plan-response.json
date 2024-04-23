@@ -1,0 +1,47 @@
+{
+  "stats": {
+    "I": 1,
+    "U": 1,
+    "D": 1,
+    "A": 1
+  },
+  "modules": [
+    {
+      "data": [
+        {
+          "status": "I",
+          "key_id": "test_resource_1",
+          "module_dir": "any"
+        },
+        {
+          "status": "U",
+          "key_id": "test_resource_2",
+          "module_dir": "any"
+        },
+        {
+          "status": "D",
+          "key_id": "test_resource_3",
+          "module_dir": "any"
+        },
+        {
+          "status": "A",
+          "key_id": "test_resource_4",
+          "module_dir": "any"
+        }
+      ],
+      "stats": {
+        "I": 1,
+        "U": 1,
+        "D": 1,
+        "A": 1
+      },
+      "module": "test_module"
+    }
+  ],
+  "legend": {
+    "Identical": "I",
+    "Add": "A",
+    "Update": "U",
+    "Delete": "D"
+  }
+}
